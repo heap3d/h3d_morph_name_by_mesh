@@ -3,6 +3,7 @@
 	<kit name="h3d_morph_name_by_mesh" restart="YES">
 		<source target="h3d_morph_name_by_mesh/index.cfg">index.cfg</source>
 		<source target="h3d_morph_name_by_mesh/scripts/morph_name_by_mesh.py">scripts/morph_name_by_mesh.py</source>
+		<source target="h3d_morph_name_by_mesh/scripts/new_morph_name_by_mesh.py">scripts/new_morph_name_by_mesh.py</source>
 	</kit>
 	<message button="Help">h3d_cable_setup Kit installation complete.</message>
 </package>
